@@ -136,7 +136,7 @@
 	<!-- Regular Surround Vents -->
 	<ThingDef ParentName="CentralizedClimateControl_BaseSurroundVent">
 		<defName>SurroundAirVent</defName>
-		<label>surroundAirVent</label>
+		<label>Surround Air Vent</label>
 		<thingClass>CentralizedClimateControl.Building_AirVent</thingClass>
 		<graphicData>
 			<texPath>Things/Building/Vents/SurroundAirVent</texPath>
@@ -174,7 +174,7 @@
 	<!-- Wide Surround Vents -->
 	<ThingDef ParentName="CentralizedClimateControl_BaseSurroundVent">
 		<defName>SurroundAirVentWide</defName>
-		<label>surroundAirVentWide</label>
+		<label>Surround Air Vent Wide</label>
 		<thingClass>CentralizedClimateControl.Building_AirVent</thingClass>
 		<size>(2,1)</size>
 		<graphicData>
